@@ -9,5 +9,5 @@
  ภาษาอังกฤด | A
  
 
-![GitHub Logo](C:/Users/HP-Corei5/Downloads/The-Lion-King.jpg)
+![GitHub Logo](/imeges/Cat.png)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
