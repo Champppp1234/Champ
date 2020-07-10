@@ -10,4 +10,3 @@
  
 
 ![GitHub Logo](/Downloads/The-Lion-King.jpg)
-Format: ![Alt Text](url)
