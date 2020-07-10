@@ -9,4 +9,4 @@
  ภาษาอังกฤด | A
  
 
-![GitHub Logo](/Downloads/The-Lion-King.jpg)
+![GitHub Logo](C:/Users/HP-Corei5/Downloads/The-Lion-King.jpg)
