@@ -10,4 +10,4 @@
  
 
 ![GitHub Logo](/imeges/Cat.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://www.yespetshop.com/private_folder/kitten-1.jpg)
